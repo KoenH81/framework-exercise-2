@@ -1,0 +1,13 @@
+body .container .rel {
+  position: relative;
+}
+
+body .container .rel .abs {
+  position: absolute;
+  z-index: -1;
+}
+
+body .container .rel .abs video {
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */

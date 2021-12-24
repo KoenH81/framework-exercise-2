@@ -1,0 +1,14 @@
+body{
+    .container{
+        .rel{
+            position: relative;
+            .abs{
+                position: absolute;
+                z-index: -1;
+                video{
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
