@@ -1,18 +1,1 @@
-body .container .rel {
-  position: relative;
-}
-
-body .container .rel .abs {
-  position: absolute;
-  z-index: -1;
-}
-
-body .container .rel .abs video {
-  width: 100%;
-}
-
-a {
-  text-decoration: none;
-  color: white;
-}
-/*# sourceMappingURL=style.css.map */
+/* No CSS *//*# sourceMappingURL=style.css.map */
